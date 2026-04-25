@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Exterior Wash",
+    "benefit": "Active foam cleaning and microfiber drying to protect the paint.",
+  },
+  {
+    "id": 2,
+    "name": "Interior Cleaning",
+    "benefit": "Deep vacuuming and dashboard dusting for a fresh cabin feel.",
+  },
+  {
+    "id": 3,
+    "name": "Detailing",
+    "benefit": "Professional stain removal and conditioning for leather or fabric.",
+  },
+  {
+    "id": 4,
+    "name": "Polish",
+    "benefit": "Removing fine scratches and restoring the original paint shine.",
+  },
+]
