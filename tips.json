@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Cold Wheels",
+    "message": "Only wash wheels when they are cool to prevent chemical staining."
+  },
+  {
+    "id": 2,
+    "title": "Air Vents",
+    "message": "Clean air vents with a soft brush before vacuuming for best results."
+  },
+  {
+    "id": 3,
+    "title": "Top to Bottom",
+    "message": "Always wash your car from top to bottom to avoid streaks and dirt runoff."
+  },
+  {
+    "id": 4,
+    "title": "Door Seals",
+    "message": "In winter, dry door seals after washing to prevent them from freezing shut."
+  },
+  {
+    "id": 5,
+    "title": "Microfiber Only",
+    "message": "Use microfiber towels for drying to avoid swirl marks and scratches."
+  },
+  {
+    "id": 6,
+    "title": "UV Protection",
+    "message": "Apply UV protectant to your dashboard to prevent plastic from cracking."
+  },
+  {
+    "id": 7,
+    "title": "Glass Clarity",
+    "message": "Clean inside glass horizontally and outside vertically to spot streaks easily."
+  },
+  {
+    "id": 8,
+    "title": "Wax Check",
+    "message": "If water stops beading on the hood, it's time to reapply a coat of wax."
+  }
+]
