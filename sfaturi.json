@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titlu": "Jante Reci",
+    "mesaj": "Spală jantele doar când sunt reci pentru a evita pătarea lor chimică."
+  },
+  {
+    "id": 2,
+    "titlu": "Grile Aer",
+    "mesaj": "Curăță grilele de ventilație cu o pensulă moale înainte de aspirare."
+  },
+  {
+    "id": 3,
+    "titlu": "Sus în Jos",
+    "mesaj": "Spală mereu mașina de sus în jos pentru a evita scurgerea murdăriei."
+  },
+  {
+    "id": 4,
+    "titlu": "Chedere",
+    "mesaj": "Iarna, șterge bine chederele după spălare pentru a preveni înghețul."
+  },
+  {
+    "id": 5,
+    "titlu": "Microfibra",
+    "mesaj": "Folosește doar lavete de microfibră pentru a evita micro-zgârieturile."
+  },
+  {
+    "id": 6,
+    "titlu": "Protecție UV",
+    "mesaj": "Hidratează bordul cu soluții dedicate pentru a preveni crăparea plasticului."
+  },
+  {
+    "id": 7,
+    "titlu": "Geamuri",
+    "mesaj": "Șterge interiorul orizontal și exteriorul vertical pentru vizibilitate maximă."
+  },
+  {
+    "id": 8,
+    "titlu": "Ceară",
+    "mesaj": "Dacă apa nu mai formează perle pe capotă, stratul de ceară trebuie refăcut."
+  }
+]
